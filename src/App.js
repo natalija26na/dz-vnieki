@@ -26,7 +26,7 @@ const dati = [
     age: 2,
     description: "Rodžeram patīk sildīties saulītē un ēst zaļas lapas.",
     image:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.petekspo.lv%2Fjuras-cucinas%2F&psig=AOvVaw3A-i-vs7ZC8DqG4_-aWClF&ust=1651066157739000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMC1ifLqsfcCFQAAAAAdAAAAABAD",
+      "https://www.petekspo.lv/wp-content/uploads/2019/10/j%C5%ABras-c%C5%ABci%C5%86a-lv.jpg",
   },
 ];
 
